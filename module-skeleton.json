@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-marketing-resources-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-marketing-resources",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-marketing-resources-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/marketing-resources.md",
+  "presentationPlan": "projects/crm/nuxt/marketing-resources.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
